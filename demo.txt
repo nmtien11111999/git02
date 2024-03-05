@@ -1,0 +1,6 @@
+hello CQ224g1
+git init: khởi tạo local repository
+git add <tên-file>: đẩy file demo.txt vaào staging area
+git commit -m "hello git" đưa thay đổi vào local repo,tạo 1 snap shot lưu trữ lại lịch sử thay đổi
+git remote: kết nối local repo với remote repo
+pit push origin master: đẩy code từ local repo lên remote repo
